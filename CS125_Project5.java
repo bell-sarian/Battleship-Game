@@ -3,12 +3,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/* CS 125 - Intro to Computer Science II
- * File Name: CS125_Project5.java
- * Project 5 - Due 11/27/2018
- * Instructor: Dr. Dan Grissom
- * 
- * Name: Bell'aria Sarian
+/*  * 
+ * Bell'aria Sarian
  * 
  * Description: Battleship game program where the user
  * can play against themself to gain ultimate
