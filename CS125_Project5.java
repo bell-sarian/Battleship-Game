@@ -16,12 +16,6 @@ public class CS125_Project5
 {
 	public static void main(String[] args)
 	{
-		// Your program should always output your name and the project number.
-		// DO NOT DELETE OR COMMENT OUT. Replace with relevant info.
-		System.out.println("Bell'aria Sarian");
-		System.out.println("Project 5");
-		System.out.println("");
-
 		// Your code should go below this line
 
 		Map<String, Integer> numGuess = new HashMap<String, Integer>(); // Stores unique coordinate string and number of guesses
