@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 
 
-public class CS125_Project5
+public class BattleshipProject
 {
 	public static void main(String[] args)
 	{
